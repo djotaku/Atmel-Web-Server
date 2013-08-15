@@ -1,0 +1,15 @@
+Creating   'atmelwebserver.eep'
+Creating   'atmelwebserver.obj'
+Creating   'atmelwebserver.lst'
+
+Assembling 'atmelwebserver.asm'
+Including  'atmelwebserver.vec'
+Including  'atmelwebserver.inc'
+atmelwebserver.asm(961) : atmelwebserver.asm(964) : 
+Program memory usage:
+Code             : 4551 words
+Constants (dw/db): 1677 words
+Unused           :    0 words
+Total            : 6228 words
+
+Assembly complete with no errors.

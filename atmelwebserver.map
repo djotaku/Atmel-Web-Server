@@ -1,0 +1,57 @@
+CodeVisionAVR C Compiler V1.23.8d Standard
+(C) Copyright 1998-2003 HP InfoTech s.r.l.
+http://www.hpinfotech.ro
+e-mail:office@hpinfotech.ro
+
+File: E:\atmelwebserver\atmelwebserver.c
+Global variables memory map:
+
+Variable                          Address   Size
+page_size                           R4,R5      2
+*index                               260h      2
+*index2                              262h      2
+*about                               264h      2
+*error400                            266h      2
+*error404                            268h      2
+*error501                            26Ah      2
+http_state                          R6,R7      2
+sendflag                            R8,R9      2
+pageendflag                       R10,R11      2
+rollback                          R12,R13      2
+counter                              26Ch      2
+MYIP                                 26Eh      4
+client                               272h      4
+serverid                             276h      4
+MYMAC                                27Ah      6
+pageheader                           280h      4
+packet                               284h    700
+dhcpstate                            540h      2
+req_ip                               542h      4
+DHCP_wait                            546h      2
+waitcount                            548h      2
+*addr                                54Ah      2
+flags                                 R14      1
+byte_read                            54Ch      1
+data_H                               54Dh      1
+data_L                               54Eh      1
+resend                               54Fh      1
+txlen                                550h      2
+rxlen                                552h      2
+chksum16                             554h      2
+hdrlen                               556h      2
+tcplen                               558h      2
+tcpdatalen_in                        55Ah      2
+dhcpoptlen                           55Ch      2
+tcpdatalen_out                       55Eh      2
+ISN                                  560h      2
+portaddr                             562h      2
+ip_packet_len                        564h      2
+ic_chksum                            566h      4
+hdr_chksum                           56Ah      4
+my_seqnum                            56Eh      4
+client_seqnum                        572h      4
+incoming_ack                         576h      4
+expected_ack                         57Ah      4
+ackflag                              57Eh      2
+closeflag                            580h      2
+*req_page                            582h      2

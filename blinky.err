@@ -1,0 +1,15 @@
+Creating   'blinky.eep'
+Creating   'blinky.obj'
+Creating   'blinky.lst'
+
+Assembling 'blinky.asm'
+Including  'blinky.vec'
+Including  'blinky.inc'
+
+Program memory usage:
+Code             :  117 words
+Constants (dw/db):    1 words
+Unused           :    0 words
+Total            :  118 words
+
+Assembly complete with no errors.
