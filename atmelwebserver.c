@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*Project:  AVR Web Server
 (C) 2005
 by: Eric Mesa and Richard West
@@ -2130,4 +2129,3 @@ What?  Were you expecting more code?  No way!  That's why I cleaned up the code 
 file.  You'll find much more in the libraries!  Go check them out now!
 
 ***********************************************************************************************/
->>>>>>> 43240b6a242994d5d5c032c08109692ca21d7bb7
